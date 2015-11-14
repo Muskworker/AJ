@@ -1,0 +1,6 @@
+Thu, 12 Nov 2015 21:28:55 -0700
+README.rdoc	Thu, 12 Nov 2015 21:28:46 -0700
+app/controllers/application_controller.rb	Mon, 19 Oct 2015 22:56:47 -0600
+app/controllers/pages_controller.rb	Wed, 11 Nov 2015 20:37:35 -0700
+app/helpers/application_helper.rb	Mon, 19 Oct 2015 22:56:47 -0600
+app/helpers/pages_helper.rb	Wed, 11 Nov 2015 20:37:35 -0700

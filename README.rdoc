@@ -1,0 +1,3 @@
+# AJ
+
+AJ is the bare bones of a Rails app.
