@@ -20,4 +20,5 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  AJ: "AJ"
+  copyright: "© YotieBlue 2015"
