@@ -1,0 +1,5 @@
+# Offense count: 2
+Lint/HandleExceptions:
+  Exclude:
+    - 'bin/rails'
+    - 'bin/rake'
