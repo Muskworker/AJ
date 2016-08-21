@@ -22,3 +22,5 @@
 en:
   AJ: "AJ"
   copyright: "© YotieBlue 2015"
+  rspec:
+	  production_mode: The Rails environment is running in production mode!
