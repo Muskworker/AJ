@@ -1,5 +1,5 @@
-# Offense count: 2
-Lint/HandleExceptions:
+# Exclude generated files that are not likely to be edited.
+AllCops:
   Exclude:
-    - 'bin/rails'
-    - 'bin/rake'
+    - 'bin/**/*'
+    - 'db/schema.rb'
