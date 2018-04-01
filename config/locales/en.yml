@@ -22,5 +22,9 @@
 en:
   AJ: "AJ"
   copyright: "© YotieBlue 2015"
+  layouts:
+      application:
+          log_in: Log In
+          log_out: Log Out
   rspec:
-	  production_mode: The Rails environment is running in production mode!
+      production_mode: The Rails environment is running in production mode!
